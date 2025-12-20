@@ -1,0 +1,1 @@
+Get-PhysicalDisk | Select-Object FriendlyName, MediaType, HealthStatus, OperationalStatus
