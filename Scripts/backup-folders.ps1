@@ -1,0 +1,1 @@
+Copy-Item C:\Users\Public\Documents D:\Backup -Recurse -Force
