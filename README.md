@@ -10,5 +10,4 @@ system administration, and troubleshooting tasks.
 - Security best practices
 - Automation scripts
 
-## License
-MIT License
+
